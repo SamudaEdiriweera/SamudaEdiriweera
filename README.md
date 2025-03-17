@@ -1,7 +1,7 @@
 # 🚀 About Me
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a9d4a1f8-625d-4028-8c4d-71b2df825229" alt="Portfolio Image" width="500"/>
+  <img src="https://github.com/user-attachments/assets/2775b198-c096-4ab4-8c14-4b9cbe794d82" alt="Portfolio Image" width="500"/>
 </div>
 
 <div>
