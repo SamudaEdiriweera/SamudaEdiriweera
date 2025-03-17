@@ -36,9 +36,11 @@
         <li>💻 Programming: 
           <a href="https://www.python.org/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python Logo"/>
-          </a>, <a href="https://www.python.org/">
+          </a>
+          <a href="https://www.python.org/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python Logo"/>
-          </a>, <a href="https://www.python.org/">
+          </a>
+          <a href="https://www.python.org/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python Logo"/>
           </a>
         </li>
