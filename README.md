@@ -21,32 +21,32 @@
   <tr>
     <td width="50%" valign="top">
       <h3>💡 What I Do</h3>
-      <ul>
-        <li>👨‍💻 Developing AI applications & ML models for real-world problems.</li> 
-        <li>🔍 Researching Causal AI, Deep Learning, and Time-Series Forecasting.</li>
-        <li>📊 Building BI dashboards & analytics tools using Power BI.</li>
-        <li>📱 Creating high-performance mobile & web apps (Flutter & React).</li>
-        <li>🚀 Deploying scalable AI/ML applications with Docker, Kubernetes, and AWS/GCP.</li>
-        <li>🔧 Automating workflows & DevOps tasks for AI/ML pipelines.</li>
-        <li> <img src="https://github.com/user-attachments/assets/124cb3a7-0ee6-448e-89b0-97f1cde95228" width="200" height="200" alt="AI/ML Image"/></li>
-      </ul>
+      
+       👨‍💻 Developing AI applications & ML models for real-world problems.
+        🔍 Researching Causal AI, Deep Learning, and Time-Series Forecasting.
+        📊 Building BI dashboards & analytics tools using Power BI.
+        📱 Creating high-performance mobile & web apps (Flutter & React).
+        🚀 Deploying scalable AI/ML applications with Docker, Kubernetes, and AWS/GCP.
+        🔧 Automating workflows & DevOps tasks for AI/ML pipelines.
+        <img src="https://github.com/user-attachments/assets/124cb3a7-0ee6-448e-89b0-97f1cde95228" width="200" height="200" alt="AI/ML Image"/></li>
+     
       
     </td>
     <td width="50%" valign="top">
       <h3>📌 Technologies & Tools</h3>
-      <ul>
-        <li>💻 Programming: 
+ 
+       💻 Programming: 
           <a href="https://www.python.org/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" alt="Python Logo"/>
             Python
           </a>, TypeScript, Dart
-        </li>
-        <li>🤖 ML/DL: TensorFlow, PyTorch, Scikit-Learn</li>
-        <li>🖥️ Backend: FastAPI, Flask, PostgreSQL, Firebase</li>
-        <li>🌐 Frontend: React, Next.js, TailwindCSS</li>
-        <li>☁️ Cloud & DevOps: Docker, Kubernetes, AWS, GCP</li>
-        <li>📊 BI & Data Science: Power BI, Pandas, NumPy</li>
-      </ul>
+       
+        🤖 ML/DL: TensorFlow, PyTorch, Scikit-Learn
+        🖥️ Backend: FastAPI, Flask, PostgreSQL, Firebase
+        🌐 Frontend: React, Next.js, TailwindCSS
+        ☁️ Cloud & DevOps: Docker, Kubernetes, AWS, GCP
+        📊 BI & Data Science: Power BI, Pandas, NumPy
+      
     </td>
   </tr>
 </table>
