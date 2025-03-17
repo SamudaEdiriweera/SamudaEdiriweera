@@ -33,7 +33,12 @@
     <td width="50%" valign="top">
       <h3>📌 Technologies & Tools</h3>
       <ul>
-        <li>💻 Programming: [[Python](https://www.python.org/)](https://www.python.org/), TypeScript, Dart</li>
+        <li>💻 Programming: 
+          <a href="https://www.python.org/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" alt="Python Logo"/>
+            Python
+          </a>, TypeScript, Dart
+        </li>
         <li>🤖 ML/DL: TensorFlow, PyTorch, Scikit-Learn</li>
         <li>🖥️ Backend: FastAPI, Flask, PostgreSQL, Firebase</li>
         <li>🌐 Frontend: React, Next.js, TailwindCSS</li>
@@ -57,5 +62,3 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/)  
 - 🌐 [Portfolio/Website](https://yourwebsite.com/)  
 - 🐦 [Twitter](https://twitter.com/)  
-
-🚀 **Let’s innovate, collaborate, and build something awesome together!**
