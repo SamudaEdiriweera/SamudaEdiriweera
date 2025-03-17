@@ -1,14 +1,8 @@
-👋 Hi, @SamudaEdiriweera!
 
-👀 I’m interested in exploring new technologies and diving into the world of coding.
- 
-🌱 I’m currently learning about artificial intelligence,machine learning and data science. Exciting stuff!
 
-💞️ I’m looking to collaborate on projects that involve innovative solutions and creative problem-solving.
 
-📫 How to reach me? You can drop me a message on my GitHub or shoot me an email at [esamuda63@gmail.com]
+🚀 About Me
 
-😄 Pronouns: samuda.
+![WhatsApp Image 2024-12-24 at 23 00 22](https://github.com/user-attachments/assets/096b1e83-b75d-4b9c-bcb6-472837c37164)
 
-⚡ Fun fact: I once taught my cat to high-five. Teamwork makes the dream work, even with pets!
---->
+I'm a Software Engineer, AI/ML Researcher, and Startup Founder passionate about building AI-driven solutions, web & mobile applications, and automation tools. I specialize in Machine Learning, Deep Learning, MLOps, and Cloud Deployment, with expertise in Python, FastAPI, Flask, TensorFlow, PyTorch, and Flutter.
