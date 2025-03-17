@@ -30,10 +30,6 @@
         <li>🔧 Automating workflows & DevOps tasks for AI/ML pipelines.</li>
         <li> <img src="https://github.com/user-attachments/assets/124cb3a7-0ee6-448e-89b0-97f1cde95228" width="200" height="200" alt="AI/ML Image"/></li>
       </ul>
-
-      
-       
-      
       
     </td>
     <td width="50%" valign="top">
