@@ -5,7 +5,8 @@
 </div>
 
 
-I'm a **Software Engineer, AI/ML Researcher, and Startup Founder** passionate about building **AI-driven solutions, web & mobile applications, and automation tools**. I specialize in **Machine Learning, Deep Learning, MLOps, and Cloud Deployment**, with expertise in **Python, FastAPI, Flask, TensorFlow, PyTorch, and Flutter**.
+I'm a **Software Engineer, AI/ML** and passionate about building **AI-driven solutions, web & mobile applications, and automation tools**. 
+I specialize in **Machine Learning, Deep Learning, MLOps, and Cloud Deployment**, with expertise in **Python, FastAPI, Flask, TensorFlow, PyTorch, and Flutter**.
 
 ## 💡 What I Do
 - 👨‍💻 Developing **AI applications & ML models** for real-world problems.
