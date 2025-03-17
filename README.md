@@ -28,7 +28,8 @@
         📱 Creating high-performance mobile & web apps (Flutter & React).
         🚀 Deploying scalable AI/ML applications with Docker, Kubernetes, and AWS/GCP.
         🔧 Automating workflows & DevOps tasks for AI/ML pipelines.
-        <img src="https://github.com/user-attachments/assets/124cb3a7-0ee6-448e-89b0-97f1cde95228" width="200" height="200" alt="AI/ML Image"/></li>
+        <img src="https://github.com/user-attachments/assets/124cb3a7-0ee6-448e-89b0-97f1cde95228" 
+        width="200" height="200" alt="AI/ML Image"/></li>
      
       
     </td>
@@ -37,7 +38,8 @@
  
        💻 Programming: 
           <a href="https://www.python.org/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" alt="Python Logo"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" 
+            width="20" alt="Python Logo"/>
             Python
           </a>, TypeScript, Dart
        
