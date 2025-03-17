@@ -35,9 +35,12 @@
       <ul>
         <li>💻 Programming: 
           <a href="https://www.python.org/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" alt="Python Logo"/>
-            Python
-          </a>, TypeScript, Dart
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python Logo"/>
+          </a>, <a href="https://www.python.org/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python Logo"/>
+          </a>, <a href="https://www.python.org/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python Logo"/>
+          </a>
         </li>
         <li>🤖 ML/DL: TensorFlow, PyTorch, Scikit-Learn</li>
         <li>🖥️ Backend: FastAPI, Flask, PostgreSQL, Firebase</li>
