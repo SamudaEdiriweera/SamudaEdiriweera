@@ -17,11 +17,6 @@
 
 ## 💡 What I Do & Technologies I Use
 
-| First Header  | Second Header |
-|               |               |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 <table>
   <tr>
     <td width="50%" valign="top">
