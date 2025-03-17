@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="70%" valign="top">
       <h3>💡 What I Do</h3>
       <ul>
         <li>👨‍💻 Developing AI applications & ML models for real-world problems.</li> 
@@ -30,7 +30,7 @@
         <li>🔧 Automating workflows & DevOps tasks for AI/ML pipelines.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="30%" valign="top">
       <h3>📌 Technologies & Tools</h3>
       <ul>
         <li>💻 Programming: 
