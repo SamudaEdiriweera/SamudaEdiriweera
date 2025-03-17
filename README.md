@@ -5,9 +5,9 @@
 </div>
 
 <div>
-  <h1 align="center">
-    I'm a **Software Engineer, AI/ML** and passionate about building **AI-driven solutions, web & mobile applications, and automation tools**.
-  </h1>
+  <h3 align="center">
+    I'm a Software Engineer, AI/ML and passionate about building AI-driven solutions, web & mobile applications, and automation tools.
+  </h3>
   <p>
     I specialize in **Machine Learning, Deep Learning, MLOps, and Cloud Deployment**, with expertise in **Python, FastAPI, Flask, TensorFlow, PyTorch, and Flutter**.
   </p>
