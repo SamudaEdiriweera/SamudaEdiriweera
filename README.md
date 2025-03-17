@@ -1,10 +1,5 @@
 # 🚀 About Me
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2775b198-c096-4ab4-8c14-4b9cbe794d82" alt="Portfolio Image" width="500"/>
 </div>
@@ -21,6 +16,11 @@
 ---
 
 ## 💡 What I Do & Technologies I Use
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 <table>
   <tr>
