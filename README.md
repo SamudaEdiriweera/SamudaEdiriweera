@@ -70,7 +70,9 @@
 ---
 
 ## 🌱 Currently Learning
-- **MLOps & Model Deployment**  
+- **MLOps & Model Deployment**
+- ![mlops](https://github.com/user-attachments/assets/feeba654-1d26-4867-8576-2f499e096389)
+
 - **Advanced Causal AI & Explainable AI (XAI)**  
 - **Large-Scale System Architecture**  
 
