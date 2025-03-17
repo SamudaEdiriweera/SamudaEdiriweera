@@ -15,7 +15,7 @@
 
 ---
 
-## 💡 What I Do & Technologies I Use
+##
 
 <table>
   <tr>
