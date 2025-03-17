@@ -40,8 +40,8 @@
           <a href="https://www.react.dev/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="Python Logo"/>
           </a>
-          <a href="https://www.python.org/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python Logo"/>
+          <a href="https://www.typescript.org/">
+            <img src="https://commons.wikimedia.org/wiki/File:Typescript.svg" width="40" height="40" alt="Python Logo"/>
           </a>
         </li>
         <li>🤖 ML/DL: TensorFlow, PyTorch, Scikit-Learn</li>
