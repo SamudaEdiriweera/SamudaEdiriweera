@@ -35,7 +35,7 @@
       <h3>📌 Technologies & Tools</h3>
       <ul>
         <li>
-          <h3>💻 Languages: </h3>
+          
           <a href="https://www.python.org/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python Logo"/>
           </a>
