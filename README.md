@@ -16,13 +16,16 @@
 ##
 <div>
   <div>
-       💡 What I Do
-- 👨‍💻 Developing **AI applications & ML models** for real-world problems.
+<h1>💡 What I Do </h1>
+    <ul> 
+      - 👨‍💻 Developing **AI applications & ML models** for real-world problems.
 - 🔍 Researching **Causal AI, Deep Learning, and Time-Series Forecasting**.
 - 📊 Building **BI dashboards & analytics tools** using **Power BI**.
 - 📱 Creating **high-performance mobile & web apps** (**Flutter & React**).
 - 🚀 Deploying scalable AI/ML applications with **Docker, Kubernetes, and AWS/GCP**.
 - 🔧 Automating workflows & **DevOps tasks** for AI/ML pipelines.
+    </ul>
+
   </div>
 
 <div>
