@@ -15,7 +15,7 @@
 
 ---
 
-##
+## 
 
 <table>
   <tr>
@@ -36,21 +36,21 @@
           <a href="https://www.python.org/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python Logo"/>
           </a>
-          <a href="https://www.react.dev/">
+          <a href="https://react.dev/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="React Logo"/>
           </a>
           <a href="https://www.typescriptlang.org/">
-            <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="Ts Logo"/>
+            <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript Logo"/>
           </a>
         </li>
 
-        <li> 
+        <li>
           <h3>🤖 ML/DL: </h3> 
           <a href="https://www.tensorflow.org/">
-            <img src="https://cdn.simpleicons.org/tensorflow" width="40" height="40" alt="Tensorflow Logo/>
+            <img src="https://cdn.simpleicons.org/tensorflow" width="40" height="40" alt="TensorFlow Logo"/>
           </a>
           <a href="https://scikit-learn.org/stable/">
-            <img src="https://cdn.simpleicons.org/scikitlearn" width="40" height="40" alt="Scikit-Learn Logo/>
+            <img src="https://cdn.simpleicons.org/scikitlearn" width="40" height="40" alt="Scikit-Learn Logo"/>
           </a>
           TensorFlow, PyTorch, Scikit-Learn
         </li>
