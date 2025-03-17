@@ -28,11 +28,11 @@
         <li>📱 Creating high-performance mobile & web apps (Flutter & React).</li>
       </ul>
     
-      <img src="https://github.com/user-attachments/assets/6c578d4e-c835-43f7-a1b3-ab212bf937f1" width="50" height="50" alt="Web app"
-/>
-  
-      
+      <div align="center">
+        <img src="https://github.com/user-attachments/assets/6c578d4e-c835-43f7-a1b3-ab212bf937f1" width="50" height="50" alt="Web App"/>
+      </div>
     </td>
+
     <td width="40%" valign="top">
       <h3>📌 Technologies & Tools</h3>
       <ul>
@@ -48,8 +48,7 @@
             <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript Logo"/>
           </a>
         </li>
-      </ul>
-      <ul>
+
         <li>
           <h3>🤖 ML/DL: </h3> 
           <a href="https://www.tensorflow.org/">
@@ -59,10 +58,10 @@
             <img src="https://cdn.simpleicons.org/scikitlearn" width="40" height="40" alt="Scikit-Learn Logo"/>
           </a>
           <a href="https://openai.com/api/">
-            <img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="Scikit-Learn Logo"/>
+            <img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="OpenAI Logo"/>
           </a>
         </li>
-      </ul>
+
         <li>🖥️ Backend: FastAPI, Flask, PostgreSQL, Firebase</li>
         <li>🌐 Frontend: React, Next.js, TailwindCSS</li>
         <li>☁️ Cloud & DevOps: Docker, Kubernetes, AWS, GCP</li>
@@ -75,8 +74,10 @@
 ---
 
 ## 🌱 Currently Learning
-- **MLOps & Model Deployment**
-- ![mlops](https://github.com/user-attachments/assets/feeba654-1d26-4867-8576-2f499e096389)
+- **MLOps & Model Deployment**  
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/feeba654-1d26-4867-8576-2f499e096389" width="80" height="80" alt="MLOps"/>
+  </div>
 
 - **Advanced Causal AI & Explainable AI (XAI)**  
 - **Large-Scale System Architecture**  
