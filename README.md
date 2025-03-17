@@ -13,10 +13,10 @@
   </p>
 </div>
  
-
+##
 <div>
   <div>
-      ## 💡 What I Do
+       💡 What I Do
 - 👨‍💻 Developing **AI applications & ML models** for real-world problems.
 - 🔍 Researching **Causal AI, Deep Learning, and Time-Series Forecasting**.
 - 📊 Building **BI dashboards & analytics tools** using **Power BI**.
