@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td >
       <h3>💡 What I Do</h3>
       <ul>
         <li>👨‍💻 Developing AI applications & ML models for real-world problems.</li> 
