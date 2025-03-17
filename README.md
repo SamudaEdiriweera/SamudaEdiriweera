@@ -43,7 +43,8 @@
             <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript Logo"/>
           </a>
         </li>
-
+      </ul>
+      <ul>
         <li>
           <h3>🤖 ML/DL: </h3> 
           <a href="https://www.tensorflow.org/">
