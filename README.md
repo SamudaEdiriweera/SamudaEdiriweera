@@ -28,7 +28,7 @@
         <li>📱 Creating high-performance mobile & web apps (Flutter & React).</li>
         <li>🚀 Deploying scalable AI/ML applications with Docker, Kubernetes, and AWS/GCP.</li>
         <li>🔧 Automating workflows & DevOps tasks for AI/ML pipelines.</li>
-        <li> <img src="https://github.com/user-attachments/assets/124cb3a7-0ee6-448e-89b0-97f1cde95228" width="100" alt="AI/ML Image"/></li>
+        <li> <img src="https://github.com/user-attachments/assets/124cb3a7-0ee6-448e-89b0-97f1cde95228" width="300" height="400" alt="AI/ML Image"/></li>
       </ul>
 
       
