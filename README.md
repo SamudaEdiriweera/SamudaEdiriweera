@@ -29,6 +29,17 @@
         <li>🚀 Deploying scalable AI/ML applications with Docker, Kubernetes, and AWS/GCP.</li>
         <li>🔧 Automating workflows & DevOps tasks for AI/ML pipelines.</li>
       </ul>
+
+      <table>
+        <td width="50">
+          <img src="https://github.com/user-attachments/assets/124cb3a7-0ee6-448e-89b0-97f1cde95228"
+"/>
+        </td>
+        <td>
+        
+        </td>
+      </table>
+      
     </td>
     <td width="50%" valign="top">
       <h3>📌 Technologies & Tools</h3>
