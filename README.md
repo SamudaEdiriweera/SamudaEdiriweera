@@ -14,9 +14,9 @@
 </div>
  
 ##
-<div>
-  <div>
-<h1>💡 What I Do </h1>
+<div class="Container">
+  <div class="left-0">
+  <h1>💡 What I Do </h1>
     <ul> 
      <li>- 👨‍💻 Developing AI applications & ML models for real-world problems.</li> 
       <li>- 🔍 Researching Causal AI, Deep Learning, and Time-Series Forecasting.</li>
@@ -28,7 +28,7 @@
 
   </div>
 
-<div>
+<div class="right-0">
   ## 📌 Technologies & Tools
 - **Programming**: Python, TypeScript, Dart  
 - **ML/DL**: TensorFlow, PyTorch, Scikit-Learn  
