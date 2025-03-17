@@ -23,11 +23,9 @@
       <h3>💡 What I Do</h3>
       <ul>
         <li>👨‍💻 Developing AI applications & ML models for real-world problems.</li> 
-        <li>🔍 Researching Causal AI, Deep Learning, and Time-Series Forecasting.</li>
-        <li>📊 Building BI dashboards & analytics tools using Power BI.</li>
-        <li>📱 Creating high-performance mobile & web apps (Flutter & React).</li>
         <li>🚀 Deploying scalable AI/ML applications with Docker, Kubernetes, and AWS/GCP.</li>
         <li>🔧 Automating workflows & DevOps tasks for AI/ML pipelines.</li>
+        <li>📱 Creating high-performance mobile & web apps (Flutter & React).</li>
       </ul>
     </td>
     <td width="30%" valign="top">
