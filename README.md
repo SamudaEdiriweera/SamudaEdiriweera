@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <h1 align="center>
+  <h1 align="center">
     I'm a **Software Engineer, AI/ML** and passionate about building **AI-driven solutions, web & mobile applications, and automation tools**.
   </h1>
   <p>
