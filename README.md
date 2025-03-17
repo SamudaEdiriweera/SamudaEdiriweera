@@ -14,22 +14,29 @@
 </div>
  
 
-
-## 💡 What I Do
+<div>
+  <div>
+      ## 💡 What I Do
 - 👨‍💻 Developing **AI applications & ML models** for real-world problems.
 - 🔍 Researching **Causal AI, Deep Learning, and Time-Series Forecasting**.
 - 📊 Building **BI dashboards & analytics tools** using **Power BI**.
 - 📱 Creating **high-performance mobile & web apps** (**Flutter & React**).
 - 🚀 Deploying scalable AI/ML applications with **Docker, Kubernetes, and AWS/GCP**.
 - 🔧 Automating workflows & **DevOps tasks** for AI/ML pipelines.
+  </div>
 
-## 📌 Technologies & Tools
+<div>
+  ## 📌 Technologies & Tools
 - **Programming**: Python, TypeScript, Dart  
 - **ML/DL**: TensorFlow, PyTorch, Scikit-Learn  
 - **Backend**: FastAPI, Flask, PostgreSQL, Firebase  
 - **Frontend**: React, Next.js, TailwindCSS  
 - **Cloud & DevOps**: Docker, Kubernetes, AWS, GCP  
 - **BI & Data Science**: Power BI, Pandas, NumPy  
+</div>
+
+</div>
+
 
 ## 🌱 Currently Learning
 - **MLOps & Model Deployment**  
