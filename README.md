@@ -1,6 +1,8 @@
 # 🚀 About Me
 
-                                                                               ![portfolio (3)](https://github.com/user-attachments/assets/a9d4a1f8-625d-4028-8c4d-71b2df825229)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a9d4a1f8-625d-4028-8c4d-71b2df825229" alt="Portfolio Image" width="600"/>
+</div>
 
 
 I'm a **Software Engineer, AI/ML Researcher, and Startup Founder** passionate about building **AI-driven solutions, web & mobile applications, and automation tools**. I specialize in **Machine Learning, Deep Learning, MLOps, and Cloud Deployment**, with expertise in **Python, FastAPI, Flask, TensorFlow, PyTorch, and Flutter**.
