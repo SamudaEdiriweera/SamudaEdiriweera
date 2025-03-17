@@ -18,7 +18,7 @@
 ## 
 
 <table>
-  <tr>
+  <tr width="60%" valign="top">
     <td >
       <h3>💡 What I Do</h3>
       <ul>
