@@ -1,5 +1,5 @@
 # 🚀 About Me
-![portfolio](https://github.com/user-attachments/assets/db87e73d-e069-4e67-bbce-cae5ff9a94db)
+
 ![portfolio (3)](https://github.com/user-attachments/assets/a9d4a1f8-625d-4028-8c4d-71b2df825229)
 
 
