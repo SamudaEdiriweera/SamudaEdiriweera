@@ -53,7 +53,9 @@
           <a href="https://scikit-learn.org/stable/">
             <img src="https://cdn.simpleicons.org/scikitlearn" width="40" height="40" alt="Scikit-Learn Logo"/>
           </a>
-          TensorFlow, PyTorch, Scikit-Learn
+          <a href="https://openai.com/api/">
+            <img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="Scikit-Learn Logo"/>
+          </a>
         </li>
       </ul>
         <li>🖥️ Backend: FastAPI, Flask, PostgreSQL, Firebase</li>
