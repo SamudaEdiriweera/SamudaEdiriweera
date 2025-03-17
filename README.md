@@ -13,11 +13,6 @@
   </p>
 </div>
 
-| Left-aligned | Center-aligned | 
-| :---         |                |
-| git status   |                |
-| git diff     |                |
-
 ---
 
 ## 💡 What I Do & Technologies I Use
