@@ -28,9 +28,7 @@
         <li>📱 Creating high-performance mobile & web apps (Flutter & React).</li>
       </ul>
     
-      <div align="center">
-        <img src="https://github.com/user-attachments/assets/6c578d4e-c835-43f7-a1b3-ab212bf937f1" width="50" height="50" alt="Web App"/>
-      </div>
+
     </td>
 
     <td width="40%" valign="top">
