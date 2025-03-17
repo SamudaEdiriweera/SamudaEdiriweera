@@ -9,7 +9,7 @@
     I'm a Software Engineer, AI/ML and passionate about building AI-driven solutions, web & mobile applications, and automation tools.
   </h3>
   <p>
-    I specialize in **Machine Learning, Deep Learning, MLOps, and Cloud Deployment**, with expertise in **Python, FastAPI, Flask, TensorFlow, PyTorch, and Flutter**.
+    I specialize in Machine Learning, Deep Learning, MLOps, and Cloud Deployment, with expertise in Python, React Ts, FastAPI, Flask, TensorFlow, PyTorch, and Flutter.
   </p>
 </div>
  
