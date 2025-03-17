@@ -50,10 +50,7 @@
           </a>
           TensorFlow, PyTorch, Scikit-Learn
         </li>
-        <li>🖥️ Backend: FastAPI, Flask, PostgreSQL, Firebase</li>
-        <li>🌐 Frontend: React, Next.js, TailwindCSS</li>
-        <li>☁️ Cloud & DevOps: Docker, Kubernetes, AWS, GCP</li>
-        <li>📊 BI & Data Science: Power BI, Pandas, NumPy</li>
+
       </ul>
     </td>
   </tr>
