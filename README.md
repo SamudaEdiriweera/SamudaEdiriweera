@@ -44,7 +44,16 @@
           </a>
         </li>
 
-        <li>🤖 ML/DL: TensorFlow, PyTorch, Scikit-Learn</li>
+        <li> 
+          <h3>🤖 ML/DL: </h3> 
+          <a href="https://www.tensorflow.org/">
+            <img src="https://cdn.simpleicons.org/tensorflow" width="40" height="40" alt="Tensorflow Logo/>
+          </a>
+          <a href="https://scikit-learn.org/stable/">
+            <img src="https://cdn.simpleicons.org/scikitlearn" width="40" height="40" alt="Scikit-Learn Logo/>
+          </a>
+          TensorFlow, PyTorch, Scikit-Learn
+        </li>
         <li>🖥️ Backend: FastAPI, Flask, PostgreSQL, Firebase</li>
         <li>🌐 Frontend: React, Next.js, TailwindCSS</li>
         <li>☁️ Cloud & DevOps: Docker, Kubernetes, AWS, GCP</li>
