@@ -29,13 +29,15 @@
   </div>
 
 <div class="right-0">
-  ## 📌 Technologies & Tools
-- **Programming**: Python, TypeScript, Dart  
-- **ML/DL**: TensorFlow, PyTorch, Scikit-Learn  
-- **Backend**: FastAPI, Flask, PostgreSQL, Firebase  
-- **Frontend**: React, Next.js, TailwindCSS  
-- **Cloud & DevOps**: Docker, Kubernetes, AWS, GCP  
-- **BI & Data Science**: Power BI, Pandas, NumPy  
+  <h1>📌 Technologies & Tools</h1> 
+  <ul>
+    <li>- Programming: Python, TypeScript, Dart  </li>
+    <li>- ML/DL: TensorFlow, PyTorch, Scikit-Learn  </li>
+    <li>- Backend: FastAPI, Flask, PostgreSQL, Firebase  </li>
+    <li>- Frontend: React, Next.js, TailwindCSS  </li>
+    <li>- Cloud & DevOps: Docker, Kubernetes, AWS, GCP  </li>
+    <li>- BI & Data Science: Power BI, Pandas, NumPy  </li>
+  </ul>
 </div>
 
 </div>
