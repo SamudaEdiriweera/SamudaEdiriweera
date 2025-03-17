@@ -38,10 +38,10 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python Logo"/>
           </a>
           <a href="https://www.react.dev/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="Python Logo"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="React Logo"/>
           </a>
           <a href="https://www.typescript.org/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/TypeScript_logo_2020.svg" width="40" height="40" alt="Python Logo"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/TypeScript_logo_2020.svg" width="40" height="40" alt="Ts Logo"/>
           </a>
         </li>
         <li>🤖 ML/DL: TensorFlow, PyTorch, Scikit-Learn</li>
