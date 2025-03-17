@@ -43,7 +43,8 @@
             <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript Logo"/>
           </a>
         </li>
-
+      </ul>
+      <ul>
         <li>
           <h3>🤖 ML/DL: </h3> 
           <a href="https://www.tensorflow.org/">
@@ -54,6 +55,7 @@
           </a>
           TensorFlow, PyTorch, Scikit-Learn
         </li>
+      </ul>
         <li>🖥️ Backend: FastAPI, Flask, PostgreSQL, Firebase</li>
         <li>🌐 Frontend: React, Next.js, TailwindCSS</li>
         <li>☁️ Cloud & DevOps: Docker, Kubernetes, AWS, GCP</li>
