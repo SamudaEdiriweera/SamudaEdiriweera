@@ -33,7 +33,7 @@
     <td width="50%" valign="top">
       <h3>📌 Technologies & Tools</h3>
       <ul>
-        <li>💻 Programming: [Python](https://www.python.org/), TypeScript, Dart</li>
+        <li>💻 Programming: [[Python](https://www.python.org/)](https://www.python.org/), TypeScript, Dart</li>
         <li>🤖 ML/DL: TensorFlow, PyTorch, Scikit-Learn</li>
         <li>🖥️ Backend: FastAPI, Flask, PostgreSQL, Firebase</li>
         <li>🌐 Frontend: React, Next.js, TailwindCSS</li>
