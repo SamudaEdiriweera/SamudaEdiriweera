@@ -44,6 +44,7 @@
           </a>
         </li>
       </ul>
+      
       <ul>
         <li>
           <h3>🤖 ML/DL: </h3> 
@@ -65,7 +66,19 @@
          
         <li>
           <h3>🖥️ Backend </h3>
-          FastAPI, Flask, PostgreSQL, Firebase
+          <!-- Flask -->
+            <a href="https://flask.palletsprojects.com/">
+              <img src="https://cdn.simpleicons.org/flask" width="40" height="40" alt="Flask Logo"/>
+            </a> 
+            <a href="https://fastapi.tiangolo.com/">
+              <img src="https://cdn.simpleicons.org/fastapi" width="40" height="40" alt="FastAPI Logo"/>
+            </a> 
+            <a href="https://www.postgresql.org/">
+              <img src="https://cdn.simpleicons.org/postgresql" width="40" height="40" alt="PostgreSQL Logo"/>
+            </a> 
+            <a href="https://firebase.google.com/">
+              <img src="https://cdn.simpleicons.org/firebase" width="40" height="40" alt="Firebase Logo"/>
+            </a>
         </li>
       </ul>
       <ul>
