@@ -62,8 +62,8 @@
           </a>
         </li>
       </ul>
+      
       <ul>
-         
         <li>
           <h3>🖥️ Backend </h3>
           <!-- Flask -->
@@ -81,6 +81,7 @@
             </a>
         </li>
       </ul>
+      
       <ul>
         <li>☁️ Cloud & DevOps: Docker, Kubernetes, AWS, GCP</li>
       </ul>
