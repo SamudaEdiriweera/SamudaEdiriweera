@@ -54,14 +54,20 @@
             <img src="https://cdn.simpleicons.org/scikitlearn" width="40" height="40" alt="Scikit-Learn Logo"/>
           </a>
           <a href="https://pytorch.org/">
-  <img src="https://cdn.simpleicons.org/pytorch" width="40" height="40" alt="PyTorch Logo"/>
-</a>
-<a href="https://opencv.org/">
-  <img src="https://cdn.simpleicons.org/opencv" width="40" height="40" alt="OpenCV Logo"/>
-</a>
-
+            <img src="https://cdn.simpleicons.org/pytorch" width="40" height="40" alt="PyTorch Logo"/>
+          </a>
+          <a href="https://opencv.org/">
+              <img src="https://cdn.simpleicons.org/opencv" width="40" height="40" alt="OpenCV Logo"/>
+          </a>
         </li>
-        <li>🖥️ Backend: FastAPI, Flask, PostgreSQL, Firebase</li>
+      </ul>
+      <ul>
+        <h3>🖥️ Backend </h3> 
+        <li>
+          FastAPI, Flask, PostgreSQL, Firebase
+        </li>
+      </ul>
+      <ul>
         <li>☁️ Cloud & DevOps: Docker, Kubernetes, AWS, GCP</li>
       </ul>
     </td>
