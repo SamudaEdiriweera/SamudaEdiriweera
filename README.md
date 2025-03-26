@@ -62,8 +62,9 @@
         </li>
       </ul>
       <ul>
-        <h3>🖥️ Backend </h3> 
+         
         <li>
+          <h3>🖥️ Backend </h3>
           FastAPI, Flask, PostgreSQL, Firebase
         </li>
       </ul>
