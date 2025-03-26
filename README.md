@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    I'm a Software Engineer, AI/ML Researcher, and Startup Founder passionate about building AI-driven solutions, web & mobile applications, and automation tools.
+    I'm a Software Engineer, AI/ML, and Startup Founder passionate about building AI-driven solutions, web & mobile applications, and automation tools.
   </h3>
   <p>
     I specialize in Machine Learning, Deep Learning, MLOps, and Cloud Deployment, with expertise in Python, TypeScript, React, FastAPI, Flask, TensorFlow, PyTorch, and Flutter.
