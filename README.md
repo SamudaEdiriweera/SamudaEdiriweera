@@ -66,7 +66,7 @@
       <ul>
         <li>
           <h3>🖥️ Backend </h3>
-          <!-- Flask -->
+
             <a href="https://flask.palletsprojects.com/">
               <img src="https://cdn.simpleicons.org/flask" width="40" height="40" alt="Flask Logo"/>
             </a> 
