@@ -53,12 +53,16 @@
           <a href="https://scikit-learn.org/stable/">
             <img src="https://cdn.simpleicons.org/scikitlearn" width="40" height="40" alt="Scikit-Learn Logo"/>
           </a>
-          TensorFlow, PyTorch, Scikit-Learn
+          <a href="https://pytorch.org/">
+  <img src="https://cdn.simpleicons.org/pytorch" width="40" height="40" alt="PyTorch Logo"/>
+</a>
+<a href="https://opencv.org/">
+  <img src="https://cdn.simpleicons.org/opencv" width="40" height="40" alt="OpenCV Logo"/>
+</a>
+
         </li>
         <li>🖥️ Backend: FastAPI, Flask, PostgreSQL, Firebase</li>
-        <li>🌐 Frontend: React, Next.js, TailwindCSS</li>
         <li>☁️ Cloud & DevOps: Docker, Kubernetes, AWS, GCP</li>
-        <li>📊 BI & Data Science: Power BI, Pandas, NumPy</li>
       </ul>
     </td>
   </tr>
