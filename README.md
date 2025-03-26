@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3>💡 What I Do</h3>
       <ul>
         <li>👨‍💻 Developing AI applications & ML models for real-world problems.</li> 
@@ -28,7 +28,7 @@
         <li>📱 Creating high-performance mobile & web apps (Flutter & React).</li>
       </ul>
     </td>
-    <td width="40%" valign="top">
+    <td width="50%" valign="top">
       <h3>📌 Technologies & Tools</h3>
       <ul>
         <li>
