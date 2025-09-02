@@ -10,12 +10,12 @@
   <a href="https://www.linkedin.com/in/samudaediriweera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/tharu-thennakoon" target="_blank">
+  <a href="https://github.com/SamudaEdiriweera" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/tharu.u_?igsh=c3pkamo2YTVsa204" target="_blank">
+<!--   <a href="https://www.instagram.com/tharu.u_?igsh=c3pkamo2YTVsa204" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a> -->
 </div>
 
 <p align="center">
