@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Samuda Ediriweera</h1>
+<p align="center" ><h1 align="center">Hi 👋, I'm Samuda Ediriweera</h1>
 <h3 align="center">A Software Engineering student of Institute of Software Engineering</h3>
+</p>
 <!-- ![output-onlinegiftools](https://github.com/user-attachments/assets/0176ab4a-83e6-435a-93e1-b88e9a26e266) -->
 
 <div align="center">
