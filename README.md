@@ -3,7 +3,7 @@
 <!-- ![output-onlinegiftools](https://github.com/user-attachments/assets/0176ab4a-83e6-435a-93e1-b88e9a26e266) -->
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0176ab4a-83e6-435a-93e1-b88e9a26e266" width="500">
+  <img src="https://github.com/user-attachments/assets/0176ab4a-83e6-435a-93e1-b88e9a26e266" width="300">
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SamudaEdiriweera" alt="SamudaEdiriweera" /></a> </p>
