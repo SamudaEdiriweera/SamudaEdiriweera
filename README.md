@@ -1,5 +1,5 @@
 <p align="center" ><h1 align="center">Hi 👋, I'm Samuda Ediriweera</h1>
-<h3 align="center">A Software Engineering student of Institute of Software Engineering</h3>
+<h3 align="center">I'm a Software Engineer, AI/ML , and passionate about building AI-driven solutions, web & mobile applications, and automation tools.</h3>
 </p>
 <!-- ![output-onlinegiftools](https://github.com/user-attachments/assets/0176ab4a-83e6-435a-93e1-b88e9a26e266) -->
 
