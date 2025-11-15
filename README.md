@@ -54,7 +54,8 @@ Software Engineer • AI/ML Enthusiast • Builder of AI-driven solutions, Web &
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamudaEdiriweera&theme=tokyonight" alt="GitHub streak"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamudaEdiriweera&theme=tokyonight" alt="GitHub streak"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamudaEdiriweera&theme=tokyonight&v=2" />
 </p>
 
 ---
